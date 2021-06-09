@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sulemankhan091
-- 👀 I’m interested in Javascript development.
-- 🌱 I’m currently learning react and typescript.
+- 👀 I am Javascript developer.
+- 🌱 I’m currently working in Reactjs and Nodejs Devlopment.
 - 💞️ I’m looking to collaborate on web development project with any developer.
 - 📫 How to reach me ...
 
