@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sulemankhan091
-- 👀 I am Javascript developer.
-- 🌱 I’m currently working in Reactjs and Nodejs Devlopment.
-- 💞️ I’m looking to collaborate on web development project with any developer.
-- 📫 How to reach me ...
+- 👀 I am a Javascript & TypeScript developer.
+- 🌱 I’m currently working in Reactjs and Nodejs development.
+- 📫 How to reach me => "sulemankhan093@gmail.com"
 
 <!---
 sulemankhan091/sulemankhan091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
